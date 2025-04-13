@@ -1,0 +1,14 @@
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\bin\Debug\net8.0\MKPL.exe
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\bin\Debug\net8.0\MKPL.deps.json
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\bin\Debug\net8.0\MKPL.runtimeconfig.json
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\bin\Debug\net8.0\MKPL.dll
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\bin\Debug\net8.0\MKPL.pdb
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.AssemblyInfoInputs.cache
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.AssemblyInfo.cs
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.csproj.CoreCompileInputs.cache
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.dll
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\refint\MKPL.dll
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.pdb
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\MKPL.genruntimeconfig.cache
+C:\Fabian\Kuliah\Semester 6\manajemen konfigurasi dan evolusi perangkat lunak\MKPL\MKPL\obj\Debug\net8.0\ref\MKPL.dll
